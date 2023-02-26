@@ -10,9 +10,6 @@ LABORATORIO SOFTWARE AVANZADO
 
 ![](logo.png)
 
-<br>
-<br>
-
 # *INFING-USAC*
 
 <br>
